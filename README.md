@@ -1,1 +1,1 @@
-# DigialCurling
+# DigitalCurling
